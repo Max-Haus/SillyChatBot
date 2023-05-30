@@ -37,5 +37,5 @@ After requirements (both Python version and packages) are met, launch the bot fr
 ```
 python manage.py runserver
 ```
-Do follow the url generated (typically 127.0.0.0:8000); then add `/Silly/`.
+Do follow the url generated (typically 127.0.0.0:8000); then add `/Silly/`.  
 Enjoy the bot.
